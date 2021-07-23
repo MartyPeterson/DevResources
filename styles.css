@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+
+div{
+    padding: 1rem;
+}
+
+h1 {
+
+}
+
+h3 {
+
+}
+
+/*nav section*/
+nav {
+    background-color: #000000;
+    color:#ffffff;
+    position: sticky;
+    top: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    font-size: 2rem;
+}
+
+nav a:link {
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0 10px;
+}
+
+nav a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/*color classes*/
+.lightBlue {
+    background-color: #66dafa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
